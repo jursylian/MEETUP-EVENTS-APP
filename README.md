@@ -25,7 +25,7 @@ The project includes event cards, category filtering, search, date-related infor
 - Improving usability and visual hierarchy
 
 ## Demo
-(Add your demo link here)
+https://jursylian.github.io/MEETUP-EVENTS-APP/
 
 ## Installation
 Open `index.html` in the browser  
